@@ -1,0 +1,5 @@
+During our next iteration of the Spector App design our goal was to remove the buttons that were used in the demo phase to show that a bluetooth connection was established.
+Then we added text to display that the area is safe when no breach has occurred and that the security has been breached when a breach occurs.
+When a breach occurs an alarm sound will be played and the user will be notified via the app. After the breach occurs and when an animal/human is no longer near the sensor the alarm will stop and the area will display that the area is safe again.
+
+Link to MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=a37f03db-7f4c-4e58-a8fe-e0c6ebdf3f6c
