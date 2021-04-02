@@ -1,2 +1,2 @@
 # Spector
-Spector "The Space Detector
+Spector "The Space Detector"
