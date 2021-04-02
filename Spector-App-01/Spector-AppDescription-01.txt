@@ -1,0 +1,3 @@
+During our first iteration of the Spector App design our goal was to link the Arduino with the app to test the bluetooth connection using an LED.
+
+Link to MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=76b05cbc-df1f-45fc-9e5c-a8d49b8718e4
