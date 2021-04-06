@@ -7,4 +7,4 @@
   
   Link to Spector-App-02 MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=a37f03db-7f4c-4e58-a8fe-e0c6ebdf3f6c
   
-  Link to Spector-App-03 MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=7762f09e-2be9-4095-9d19-c7541b06fbd1
+  Link to Spector-App-03 MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=d100ee28-14be-4241-99ac-c63670588338
