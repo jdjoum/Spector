@@ -1,3 +1,3 @@
 During our third iteration of the Spector App design our goal was to add a feature that counts the number of area breaches in the app when the motion sensor is triggered and allows the user to reset the number whenever they'd like to.
 
-Link to MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=d100ee28-14be-4241-99ac-c63670588338 
+Link to MIT App Inventor Project: https://gallery.appinventor.mit.edu/?galleryid=352f7a70-b993-496b-9014-ceb130b9ce5c
